@@ -21,6 +21,9 @@ These are the main visuals of the dashboard:
 5. **Total Sales of Beauty Products in 2024**
    This will give a wider view of the yearly sales by quarters.
 
+![Sales Dashboard](Cosmetic Sales Dashboard.jpg)
+_Figure 1: Sales Dashboard._
+
 ## Period of Analysis
 
 Data covers Q1 2024 to Q4 2024, which allows for full-year trends and performance analysis.
